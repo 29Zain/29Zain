@@ -3,7 +3,6 @@
 Third-year **Software Engineering** student at the **University of the South Pacific** (Fiji) and TSLS merit scholarship recipient.  
 My focus is back-end systems: distributed services, web applications, and the testing that keeps them working.
 
-🎯 **Currently looking for a software development internship.**
 
 ---
 
